@@ -1,0 +1,11 @@
+numpy
+torch==1.9
+pathlib
+tqdm
+matplotlib
+sklearn
+mpmath
+opencv-python
+mxnet
+tensorboard
+pickle5
