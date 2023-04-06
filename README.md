@@ -4,7 +4,7 @@ https://proceedings.mlr.press/v162/conti22a/conti22a.pdf (or https://arxiv.org/a
 
 
 <p align="center">
-  <img src="https://github.com/JRConti/EthicalModule_vMF/blob/master/images/vMF_sphere.png">
+  <img src="https://github.com/JRConti/EthicalModule_vMF/blob/main/images/vMF_sphere.png">
 </p>
 
 
